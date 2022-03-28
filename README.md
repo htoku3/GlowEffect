@@ -11,6 +11,12 @@
 
 とすれば効果が適用された画像が "image_out.jpg" のように保存されます。　元イメージ名は何でも良いです。 png も可です。
 
+## インストール
+Python が使用可能な環境であれば、　Pillow と Numpy をインストールすればそのまま動きます。
+```
+$ pip install -r requirements.txt
+```
+
 ## 仕組み
 デジ絵でよく知られた、
 ```mermaid
